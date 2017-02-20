@@ -1,0 +1,36 @@
+# Site settings
+title: lukas' coding'
+subtitle: site
+email: lukasm@my.com
+description: the github website of lukas' coding
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author:
+street_address: ""
+city: Leipzig
+state: DE
+zip_code: ""
+country: Germany
+phone: ""
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/lukascoding
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: compressed
